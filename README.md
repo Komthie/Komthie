@@ -16,7 +16,9 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
-![Study Timer](https://github.com/Komthie/Komthie/assets/95933637/3358f4d6-f958-4b72-b793-db03bc97bd8f)
+![Study Timer](https://github.com/Komthie/Komthie/assets/95933637/3358f4d6-f958-4b72-b793-db03bc97bd8f)![Fibonacci](https://github.com/Komthie/Komthie/assets/95933637/1c98b981-38f4-43c6-9235-a63c5bbd52f6)![PurpleWindowsCMD](https://github.com/Komthie/Komthie/assets/95933637/a57f8643-7805-46cd-9c3a-932bdcf2648b)
+
+
 
 
 
