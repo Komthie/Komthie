@@ -15,5 +15,4 @@
 [![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
-![Top Langs K0m](https://github-readme-stats.vercel.app/api/top-langs/?username=Komthie&hide_progress=true)
+![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)![Top Langs K0m](https://github-readme-stats.vercel.app/api/top-langs/?username=Komthie&hide_progress=true)
