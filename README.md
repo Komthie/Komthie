@@ -1,5 +1,5 @@
-### Hi, Im Pedro K0mthi3! 👋
-## Knock, Knock.. Neo! 🐇
+# Knock, Knock.. Neo! 🐇 Wake up.
+## Hi, Im P3dr0 K0mthi3! 👋
 
 [![University](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://ufsc.br/)
 [![Tryhackme](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://tryhackme.com/p/K0MTH33)
