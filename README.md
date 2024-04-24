@@ -14,14 +14,12 @@
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<br/>
+# Repositories..
 ![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
 ![Study Timer](https://github.com/Komthie/Komthie/assets/95933637/3358f4d6-f958-4b72-b793-db03bc97bd8f)![Fibonacci](https://github.com/Komthie/Komthie/assets/95933637/1c98b981-38f4-43c6-9235-a63c5bbd52f6)![PurpleWindowsCMD](https://github.com/Komthie/Komthie/assets/95933637/a57f8643-7805-46cd-9c3a-932bdcf2648b)
-
-
-
-
-
+![image](https://github.com/Komthie/Komthie/assets/95933637/1b18df0c-e4d0-44fd-81a6-2ef1eb2937b5)
+</br>
 # Languages tools I use in my daily routine.
 <div style="display: inline_block"><br/><img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><div style="display: inline_block"><br/><img align="center" alt="Shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></div><div style="display: inline_block"><br/><img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></div>
