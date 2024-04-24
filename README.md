@@ -16,7 +16,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
-![K0mth13' Repository](https://github.com/Komthie/Study-Anime-Painel-Timer&theme=dracula)
+![K0mth13' Repository](https://github.com/Komthie/Study-Anime-Painel-Timer)
 
 
 # Languages tools I use in my daily routine.
