@@ -16,8 +16,8 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
-![Study Timer](![image](https://github.com/Komthie/Komthie/assets/95933637/add5d9c9-c06c-45f2-96ff-332445b78c07)
-)
+![Study Timer](https://github.com/Komthie/Komthie/assets/95933637/3358f4d6-f958-4b72-b793-db03bc97bd8f)
+
 
 
 # Languages tools I use in my daily routine.
