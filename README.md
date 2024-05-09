@@ -14,8 +14,7 @@
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <br/>
-# Repositories..
-![K0mth13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komthie&show_icons=true&theme=dracula)
+# Repositories.
 ![Study Timer](https://github.com/Komthie/Komthie/assets/95933637/3358f4d6-f958-4b72-b793-db03bc97bd8f)![Fibonacci](https://github.com/Komthie/Komthie/assets/95933637/1c98b981-38f4-43c6-9235-a63c5bbd52f6)![PurpleWindowsCMD](https://github.com/Komthie/Komthie/assets/95933637/a57f8643-7805-46cd-9c3a-932bdcf2648b)
 ![image](https://github.com/Komthie/Komthie/assets/95933637/1b18df0c-e4d0-44fd-81a6-2ef1eb2937b5)
 </br>
