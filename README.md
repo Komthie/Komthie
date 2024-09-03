@@ -1,6 +1,6 @@
 # Knock, Knock.. Neo! 🐇 Wake up.
-## Hi, Im P3dr0 K0mthi3! 👋
 
+## i dont care i dont care i dont care here is my delirium projects
 [![University](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://ufsc.br/)
 [![Tryhackme](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://tryhackme.com/p/K0MTH33)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=pink)](https://ufsc.br/)
